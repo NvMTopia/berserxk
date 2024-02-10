@@ -1,0 +1,17 @@
+{
+"StoreName": "Berserkx Market",
+  "token": "MTIwNTMzODQ5MTM5MTU3ODE4Mg.GhHD7z.rfP8ruvDkjcqemnWXatLREqiy2heFeMBTcKjgM",
+    "mongoURI": "mongodb+srv://claritaacc:ikRWQBaXFY4POaCr@cluster0.2zu2vn8.mongodb.net/?retryWrites=true&w=majority",
+  "prefix": ".",
+  "adminIds": ["594861220440571904", "692655495265124382"],
+  "buylogChannelId": "1204735237079171092", 
+  "stockChannelId": "1203179809044434954",
+  "yourBotId": "1205338491391578182",
+"desiredChannelId": "1205718650624155659",
+"specificUserId": "https://discord.com/api/webhooks/1205718768857124924/5dGeLLJT708it7EujskEh0CFcm6ofdQnAs2n3A0bV_RmgqI_x7_MVkJuaNJST89yhfJS",
+  "imageURL": "https://media.discordapp.net/attachments/1203179031781052517/1205350663169642506/anime-dark.gif?ex=65d80d48&is=65c59848&hm=e73Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fBTtPFuQMNfm2RfEHfK&=",
+  "wlEmoji": "<:wl:1205352105540321292>",
+  "emoji1": "<a:arrowright:1205351464579371048>",
+  "emoji2": "<:Growtopian2:1205720141875384361>",
+  "emoji3": "<a:emoji_4:1167682873944461414>"
+}
